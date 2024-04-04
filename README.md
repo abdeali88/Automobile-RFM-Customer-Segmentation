@@ -14,7 +14,7 @@ The datasets used include:
 
 ## Tableau Dashboard
 The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/app/profile/abdeali.arsiwala1896/viz/AutomobileRFMCustomerSegmentationDashboard/RFMDashboard).<br>
-<img src="data%20visualization/Sales%20Dashboard.gif" height="500" align="middle"><br>
+<img src="data%20visualization/tableau_dashboard.png" height="500" align="middle"><br>
 
 
 ## Steps/Approach for Analysis
